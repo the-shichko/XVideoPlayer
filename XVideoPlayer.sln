@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XVideoPlayer.Android", "XVideoPlayer\XVideoPlayer.Android\XVideoPlayer.Android.csproj", "{794BE36C-0DE3-40B9-8C4E-4299071B023A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XVideoPlayer", "XVideoPlayer\XVideoPlayer\XVideoPlayer.csproj", "{9796E0E1-7DA9-431E-86C9-D2EE6E3EC9EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{794BE36C-0DE3-40B9-8C4E-4299071B023A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{794BE36C-0DE3-40B9-8C4E-4299071B023A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{794BE36C-0DE3-40B9-8C4E-4299071B023A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{794BE36C-0DE3-40B9-8C4E-4299071B023A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{794BE36C-0DE3-40B9-8C4E-4299071B023A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{794BE36C-0DE3-40B9-8C4E-4299071B023A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{9796E0E1-7DA9-431E-86C9-D2EE6E3EC9EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9796E0E1-7DA9-431E-86C9-D2EE6E3EC9EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9796E0E1-7DA9-431E-86C9-D2EE6E3EC9EC}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9796E0E1-7DA9-431E-86C9-D2EE6E3EC9EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9796E0E1-7DA9-431E-86C9-D2EE6E3EC9EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9796E0E1-7DA9-431E-86C9-D2EE6E3EC9EC}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FCFCA2A-DE4A-48F7-9E8D-89222FE93B64}
+	EndGlobalSection
+EndGlobal
